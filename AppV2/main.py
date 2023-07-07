@@ -1,4 +1,5 @@
 import streamlit as st
+pip install yfinance
 import yfinance as yf
 import pandas as pd
 from langchain.agents import create_pandas_dataframe_agent
