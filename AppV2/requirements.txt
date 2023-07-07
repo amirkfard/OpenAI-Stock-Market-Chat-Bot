@@ -1,1 +1,3 @@
 yfinance
+langchain
+dotenv
